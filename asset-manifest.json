@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c3040dbb.css",
+    "main.js": "/portfolio/static/js/main.620bed3e.js",
+    "static/media/line.mp4": "/portfolio/static/media/line.1db8b0b386ab42038ee1.mp4",
+    "static/media/mine21.png": "/portfolio/static/media/mine21.0758daa511b0cb58ff09.png",
+    "static/media/me22.png": "/portfolio/static/media/me22.41d8cd7fc8a81cf855e7.png",
+    "static/media/shop.png": "/portfolio/static/media/shop.444c86c74d7f88a41049.png",
+    "static/media/AWASIRI_CV.pdf": "/portfolio/static/media/AWASIRI_CV.3336f9bab74906d3ecc2.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.c3040dbb.css.map": "/portfolio/static/css/main.c3040dbb.css.map",
+    "main.620bed3e.js.map": "/portfolio/static/js/main.620bed3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3040dbb.css",
+    "static/js/main.620bed3e.js"
+  ]
+}
